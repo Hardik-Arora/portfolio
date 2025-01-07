@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'arorahardik71@gmail.com';
+$siteOwnersEmail = 'https://formspree.io/arorahardik71@gmail.com';
 
 
 if($_POST) {
